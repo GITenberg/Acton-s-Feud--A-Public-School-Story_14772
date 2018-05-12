@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5679'
     url: http://www.gutenberg.org/2009/agents/5679
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14772#Acton-s-Feud--A-Public-School-Story
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '2005-01-25'
 gutenberg_type: Text
